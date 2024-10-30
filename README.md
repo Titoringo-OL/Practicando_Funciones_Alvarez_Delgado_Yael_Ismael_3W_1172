@@ -87,4 +87,18 @@ Practicando Funciones
 # Aqui se muestra el error
 ![image](https://github.com/user-attachments/assets/1583db79-42e6-4ee9-9171-58240eff8d39)
 
+# 19# Combine solo posicional y solo palabras clave
+![image](https://github.com/user-attachments/assets/561b0ce8-37a3-4239-90b2-a90ea8f963a3)
+# Ejecutado
+![image](https://github.com/user-attachments/assets/684a28e0-443e-428a-8f2e-93bfa7c9d0f3)
+
+# 20# Recursividad 
+![image](https://github.com/user-attachments/assets/b9407554-640f-4dc5-b7a0-68e4b7c40b26)
+# Ejecutado
+![image](https://github.com/user-attachments/assets/8f221521-3d4b-4d61-beca-98348e34789c)
+
+
+
+
+
 
